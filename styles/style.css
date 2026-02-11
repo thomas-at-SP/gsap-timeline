@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+}
+
+.panel {
+	height: 100vh;
+	z-index: -1;
+	background-color: darkgray;
+}
+
+.box {
+	width: 100px;
+	height: 100px;
+	background-color:dimgray;
+}
